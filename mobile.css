@@ -1,0 +1,87 @@
+@media screen and (max-width: 767px){
+
+    body{
+        margin: auto;
+
+    }
+    div{
+        position: relative;
+    }
+    p {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+    }
+
+    #a {
+    width: 100%;
+    height: 75px;
+    background-color: orange;
+    border: 1px solid black;
+    }
+
+    #b{
+        width: 100%;
+        height: 150px;
+        background: #888; 
+        border: 1px solid black;
+        vertical-align: middle;
+
+    }
+
+    #c{
+        width:100%;
+        height: 125px;
+        background: pink;
+        border: 1px soild black
+    }
+
+    #d{
+        width: 100%;
+        height: 125px;
+        background: #888;
+        border: 1px solid black;
+    }
+
+    #e{
+        width: 50%;
+        height: 250px;
+        background: blue;
+        border: 1px solid black;
+        float: left;
+
+    }
+
+    #f{
+        width: 50%;
+        height: 250px;
+        background: green;
+        border: 1px solid black;
+        float: left;
+    }
+
+    #g{
+        width: 50%;
+        height: 250px;
+        background: yellow;
+        border: 1px solid black;
+        float: left;
+
+    }
+
+    #h{
+        width: 50%;
+        height: 250px;
+        background: red;
+        border: 1px solid black;
+        float: left;
+    }
+
+    #i{
+        width: 100%;
+        height: 80px;
+        background: #888;
+        border: 1px solid black;
+        clear: both;
+
+    }
